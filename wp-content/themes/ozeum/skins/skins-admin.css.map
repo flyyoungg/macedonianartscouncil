@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["skins-admin.scss","../css/_theme-vars.scss","../css/_admin-colors.scss","../css/_mixins.scss"],"names":[],"mappings":";AAIA;AAAA;AAAA;EAGC;EACA;;;AAED;EACC;EACA;;;AAED;EACC,aC4Ba;ED3Bb;EACA;;;AAED;EACC;EACA,OEnBiB;ECkrBhB,mBH9pBD;EG8pBC,eH9pBD;EGgqBA,WHhqBA;;;AAED;EACC;EACA,OElBkB;;;AFoBnB;EACC;EACA,OEnBgB","file":"skins-admin.css"}

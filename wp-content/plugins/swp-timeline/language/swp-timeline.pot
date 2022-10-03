@@ -1,0 +1,693 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Timeline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-25 10:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: swp-timeline"
+
+#. 1: Plugin name 2: Elementor
+#: elementor/swp-timeline-elementor-widgets-init.php:148
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: elementor/swp-timeline-elementor-widgets-init.php:172
+#: elementor/swp-timeline-elementor-widgets-init.php:197
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:96
+#: elementor/widgets/class-swp-timeline-style-four.php:194
+#: elementor/widgets/class-swp-timeline-style-four.php:303
+#: elementor/widgets/class-swp-timeline-style-one.php:96
+#: elementor/widgets/class-swp-timeline-style-three.php:96
+#: elementor/widgets/class-swp-timeline-style-three.php:207
+#: elementor/widgets/class-swp-timeline-style-three.php:307
+#: elementor/widgets/class-swp-timeline-style-two.php:97
+#: elementor/widgets/class-swp-timeline-style-two.php:194
+#: elementor/widgets/class-swp-timeline-style-two.php:302
+msgid "#"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:243
+#: elementor/widgets/class-swp-timeline-style-three.php:135
+#: elementor/widgets/class-swp-timeline-style-three.php:236
+#: elementor/widgets/class-swp-timeline-style-three.php:346
+#: elementor/widgets/class-swp-timeline-style-two.php:244
+#: elementor/widgets/class-swp-timeline-style-two.php:352
+msgid "2021"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:123
+#: elementor/widgets/class-swp-timeline-style-four.php:221
+#: elementor/widgets/class-swp-timeline-style-two.php:125
+#: elementor/widgets/class-swp-timeline-style-two.php:222
+#: elementor/widgets/class-swp-timeline-style-two.php:330
+msgid "25"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:113
+#: elementor/widgets/class-swp-timeline-style-four.php:211
+#: elementor/widgets/class-swp-timeline-style-four.php:320
+#: elementor/widgets/class-swp-timeline-style-one.php:113
+#: elementor/widgets/class-swp-timeline-style-three.php:124
+#: elementor/widgets/class-swp-timeline-style-three.php:225
+#: elementor/widgets/class-swp-timeline-style-three.php:335
+#: elementor/widgets/class-swp-timeline-style-two.php:114
+#: elementor/widgets/class-swp-timeline-style-two.php:211
+#: elementor/widgets/class-swp-timeline-style-two.php:319
+msgid "25 January 2022"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:258
+#: elementor/widgets/class-swp-timeline-style-three.php:368
+msgid "<i class=\"fa fa-check\"></i> Web Design Trend"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-two.php:373
+msgid "<li><i class=\"fa fa-check\"></i> Web Design Trend</li>"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:112
+#: elementor/widgets/class-swp-timeline-style-three.php:323
+msgid "Add Author Name"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:145
+#: elementor/widgets/class-swp-timeline-style-four.php:254
+#: elementor/widgets/class-swp-timeline-style-four.php:331
+#: elementor/widgets/class-swp-timeline-style-one.php:123
+#: elementor/widgets/class-swp-timeline-style-three.php:145
+#: elementor/widgets/class-swp-timeline-style-three.php:246
+#: elementor/widgets/class-swp-timeline-style-three.php:257
+#: elementor/widgets/class-swp-timeline-style-three.php:356
+#: elementor/widgets/class-swp-timeline-style-three.php:367
+#: elementor/widgets/class-swp-timeline-style-two.php:146
+#: elementor/widgets/class-swp-timeline-style-two.php:254
+#: elementor/widgets/class-swp-timeline-style-two.php:362
+#: elementor/widgets/class-swp-timeline-style-two.php:372
+msgid "Add Content"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:112
+#: elementor/widgets/class-swp-timeline-style-four.php:210
+#: elementor/widgets/class-swp-timeline-style-four.php:319
+#: elementor/widgets/class-swp-timeline-style-one.php:112
+#: elementor/widgets/class-swp-timeline-style-three.php:123
+#: elementor/widgets/class-swp-timeline-style-three.php:224
+#: elementor/widgets/class-swp-timeline-style-three.php:334
+#: elementor/widgets/class-swp-timeline-style-two.php:113
+#: elementor/widgets/class-swp-timeline-style-two.php:210
+#: elementor/widgets/class-swp-timeline-style-two.php:318
+msgid "Add Date"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:231
+msgid "Add Short Date "
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:122
+#: elementor/widgets/class-swp-timeline-style-four.php:133
+#: elementor/widgets/class-swp-timeline-style-four.php:220
+#: elementor/widgets/class-swp-timeline-style-two.php:124
+#: elementor/widgets/class-swp-timeline-style-two.php:135
+#: elementor/widgets/class-swp-timeline-style-two.php:221
+#: elementor/widgets/class-swp-timeline-style-two.php:232
+#: elementor/widgets/class-swp-timeline-style-two.php:329
+#: elementor/widgets/class-swp-timeline-style-two.php:340
+msgid "Add Short Date Date"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:85
+#: elementor/widgets/class-swp-timeline-style-four.php:183
+#: elementor/widgets/class-swp-timeline-style-four.php:292
+#: elementor/widgets/class-swp-timeline-style-one.php:85
+#: elementor/widgets/class-swp-timeline-style-three.php:85
+#: elementor/widgets/class-swp-timeline-style-three.php:196
+#: elementor/widgets/class-swp-timeline-style-three.php:296
+#: elementor/widgets/class-swp-timeline-style-two.php:86
+#: elementor/widgets/class-swp-timeline-style-two.php:183
+#: elementor/widgets/class-swp-timeline-style-two.php:291
+msgid "Add title"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:242
+#: elementor/widgets/class-swp-timeline-style-three.php:134
+#: elementor/widgets/class-swp-timeline-style-three.php:235
+#: elementor/widgets/class-swp-timeline-style-three.php:345
+#: elementor/widgets/class-swp-timeline-style-two.php:243
+#: elementor/widgets/class-swp-timeline-style-two.php:351
+msgid "Add Year"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:81
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:81
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:81
+msgid "Amount of post to display"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:142
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:142
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:142
+msgid "ASC"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:125
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:125
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:125
+#: elementor/widgets/class-swp-timeline-style-three.php:321
+msgid "Author"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:110
+msgid "Author Name"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:27
+msgid "Blog Style One"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:27
+msgid "Blog Style Three"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:27
+msgid "Blog Style Two"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:255
+#: elementor/widgets/class-swp-timeline-style-three.php:365
+#: elementor/widgets/class-swp-timeline-style-two.php:370
+msgid "Check List"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:312
+#: elementor/widgets/class-swp-timeline-style-two.php:557
+msgid "Check List Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:282
+#: elementor/widgets/class-swp-timeline-style-four.php:484
+msgid "Circle Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:74
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:74
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:74
+#: elementor/widgets/class-swp-timeline-style-four.php:74
+#: elementor/widgets/class-swp-timeline-style-four.php:143
+#: elementor/widgets/class-swp-timeline-style-four.php:252
+#: elementor/widgets/class-swp-timeline-style-four.php:329
+#: elementor/widgets/class-swp-timeline-style-one.php:74
+#: elementor/widgets/class-swp-timeline-style-one.php:121
+#: elementor/widgets/class-swp-timeline-style-three.php:74
+#: elementor/widgets/class-swp-timeline-style-three.php:143
+#: elementor/widgets/class-swp-timeline-style-three.php:244
+#: elementor/widgets/class-swp-timeline-style-three.php:354
+#: elementor/widgets/class-swp-timeline-style-two.php:75
+#: elementor/widgets/class-swp-timeline-style-two.php:144
+#: elementor/widgets/class-swp-timeline-style-two.php:252
+#: elementor/widgets/class-swp-timeline-style-two.php:360
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:250
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:309
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:288
+#: elementor/widgets/class-swp-timeline-style-four.php:511
+#: elementor/widgets/class-swp-timeline-style-one.php:242
+#: elementor/widgets/class-swp-timeline-style-three.php:562
+#: elementor/widgets/class-swp-timeline-style-two.php:533
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:152
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:152
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:152
+msgid "Content Excerpt Length"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:242
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:301
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:280
+#: elementor/widgets/class-swp-timeline-style-four.php:503
+#: elementor/widgets/class-swp-timeline-style-one.php:234
+#: elementor/widgets/class-swp-timeline-style-three.php:554
+#: elementor/widgets/class-swp-timeline-style-two.php:525
+msgid "Content Style"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:265
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:324
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:303
+#: elementor/widgets/class-swp-timeline-style-four.php:526
+#: elementor/widgets/class-swp-timeline-style-one.php:257
+#: elementor/widgets/class-swp-timeline-style-three.php:577
+#: elementor/widgets/class-swp-timeline-style-two.php:548
+msgid "Content Typography"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:127
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:127
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:127
+#: elementor/widgets/class-swp-timeline-style-four.php:110
+#: elementor/widgets/class-swp-timeline-style-four.php:208
+#: elementor/widgets/class-swp-timeline-style-four.php:317
+#: elementor/widgets/class-swp-timeline-style-one.php:110
+#: elementor/widgets/class-swp-timeline-style-three.php:121
+#: elementor/widgets/class-swp-timeline-style-three.php:222
+#: elementor/widgets/class-swp-timeline-style-three.php:332
+#: elementor/widgets/class-swp-timeline-style-two.php:111
+#: elementor/widgets/class-swp-timeline-style-two.php:208
+#: elementor/widgets/class-swp-timeline-style-two.php:316
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:240
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:239
+#: elementor/widgets/class-swp-timeline-style-four.php:442
+#: elementor/widgets/class-swp-timeline-style-two.php:484
+msgid "Date And Month Background Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:217
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:218
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:217
+#: elementor/widgets/class-swp-timeline-style-four.php:420
+#: elementor/widgets/class-swp-timeline-style-one.php:209
+#: elementor/widgets/class-swp-timeline-style-three.php:529
+#: elementor/widgets/class-swp-timeline-style-two.php:462
+msgid "Date Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:209
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:210
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:209
+#: elementor/widgets/class-swp-timeline-style-four.php:412
+#: elementor/widgets/class-swp-timeline-style-one.php:201
+#: elementor/widgets/class-swp-timeline-style-three.php:450
+#: elementor/widgets/class-swp-timeline-style-two.php:454
+msgid "Date Style"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:231
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:232
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:231
+#: elementor/widgets/class-swp-timeline-style-four.php:434
+#: elementor/widgets/class-swp-timeline-style-one.php:223
+#: elementor/widgets/class-swp-timeline-style-three.php:543
+#: elementor/widgets/class-swp-timeline-style-two.php:476
+msgid "Date Typography"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:146
+#: elementor/widgets/class-swp-timeline-style-four.php:255
+#: elementor/widgets/class-swp-timeline-style-four.php:332
+#: elementor/widgets/class-swp-timeline-style-one.php:124
+#: elementor/widgets/class-swp-timeline-style-three.php:146
+#: elementor/widgets/class-swp-timeline-style-three.php:247
+#: elementor/widgets/class-swp-timeline-style-three.php:357
+#: elementor/widgets/class-swp-timeline-style-two.php:147
+#: elementor/widgets/class-swp-timeline-style-two.php:255
+#: elementor/widgets/class-swp-timeline-style-two.php:363
+msgid "Default Content"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:86
+#: elementor/widgets/class-swp-timeline-style-four.php:184
+#: elementor/widgets/class-swp-timeline-style-four.php:293
+#: elementor/widgets/class-swp-timeline-style-one.php:86
+#: elementor/widgets/class-swp-timeline-style-three.php:86
+#: elementor/widgets/class-swp-timeline-style-three.php:197
+#: elementor/widgets/class-swp-timeline-style-three.php:297
+#: elementor/widgets/class-swp-timeline-style-two.php:87
+#: elementor/widgets/class-swp-timeline-style-two.php:184
+#: elementor/widgets/class-swp-timeline-style-two.php:292
+msgid "Default Title"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:141
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:141
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:141
+msgid "DESC"
+msgstr ""
+
+#: elementor/swp-timeline-elementor-widgets-init.php:150
+#: elementor/swp-timeline-elementor-widgets-init.php:174
+msgid "Elementor"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:102
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:102
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:102
+msgid "Exclude Category"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:47
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:47
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:47
+#: elementor/widgets/class-swp-timeline-style-four.php:47
+#: elementor/widgets/class-swp-timeline-style-one.php:47
+#: elementor/widgets/class-swp-timeline-style-three.php:47
+#: elementor/widgets/class-swp-timeline-style-two.php:47
+msgid "General Settings"
+msgstr ""
+
+#: inc/class-swp-timeline-init.php:45
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:285
+#: elementor/widgets/class-swp-timeline-style-one.php:277
+msgid "Hover Border Color"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://solverwp.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/solverwp/"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:597
+msgid "Icon Bg Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:153
+#: elementor/widgets/class-swp-timeline-style-four.php:262
+#: elementor/widgets/class-swp-timeline-style-four.php:339
+#: elementor/widgets/class-swp-timeline-style-one.php:131
+#: elementor/widgets/class-swp-timeline-style-three.php:166
+#: elementor/widgets/class-swp-timeline-style-two.php:154
+#: elementor/widgets/class-swp-timeline-style-two.php:262
+#: elementor/widgets/class-swp-timeline-style-two.php:381
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:134
+#: elementor/widgets/class-swp-timeline-style-four.php:232
+#: elementor/widgets/class-swp-timeline-style-two.php:136
+#: elementor/widgets/class-swp-timeline-style-two.php:233
+#: elementor/widgets/class-swp-timeline-style-two.php:341
+msgid "Jan"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:113
+#: elementor/widgets/class-swp-timeline-style-three.php:324
+msgid "John"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:458
+msgid "Meta Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:475
+msgid "Meta Typography"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:138
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:138
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:138
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:122
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:122
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:122
+msgid "Order by"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:277
+#: elementor/widgets/class-swp-timeline-style-one.php:269
+#: elementor/widgets/class-swp-timeline-style-three.php:589
+msgid "Other Style"
+msgstr ""
+
+#: elementor/swp-timeline-elementor-widgets-init.php:199
+msgid "PHP"
+msgstr ""
+
+#. %s: post date.
+#: inc/functions.php:94
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:128
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:128
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:128
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:90
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:90
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:90
+msgid "Select Category"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:55
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:55
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:55
+#: elementor/widgets/class-swp-timeline-style-four.php:55
+#: elementor/widgets/class-swp-timeline-style-one.php:55
+#: elementor/widgets/class-swp-timeline-style-three.php:55
+#: elementor/widgets/class-swp-timeline-style-two.php:55
+msgid "Select Style"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:112
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:112
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:112
+msgid "Select tag"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:120
+#: elementor/widgets/class-swp-timeline-style-four.php:218
+#: elementor/widgets/class-swp-timeline-style-two.php:122
+#: elementor/widgets/class-swp-timeline-style-two.php:219
+#: elementor/widgets/class-swp-timeline-style-two.php:327
+msgid "Short Date "
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:131
+#: elementor/widgets/class-swp-timeline-style-four.php:229
+#: elementor/widgets/class-swp-timeline-style-two.php:133
+#: elementor/widgets/class-swp-timeline-style-two.php:230
+#: elementor/widgets/class-swp-timeline-style-two.php:338
+msgid "Short Month "
+msgstr ""
+
+#. Author of the plugin
+msgid "SolverWP"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:58
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:58
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:58
+#: elementor/widgets/class-swp-timeline-style-four.php:58
+#: elementor/widgets/class-swp-timeline-style-one.php:58
+#: elementor/widgets/class-swp-timeline-style-three.php:58
+#: elementor/widgets/class-swp-timeline-style-two.php:58
+msgid "Style 1"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:59
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:59
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:59
+#: elementor/widgets/class-swp-timeline-style-four.php:59
+#: elementor/widgets/class-swp-timeline-style-one.php:59
+#: elementor/widgets/class-swp-timeline-style-three.php:59
+#: elementor/widgets/class-swp-timeline-style-two.php:59
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:60
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:60
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:60
+#: elementor/widgets/class-swp-timeline-style-four.php:60
+#: elementor/widgets/class-swp-timeline-style-one.php:60
+#: elementor/widgets/class-swp-timeline-style-three.php:60
+#: elementor/widgets/class-swp-timeline-style-two.php:60
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-two.php:61
+msgid "Style 4"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:27
+msgid "Style Four"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-one.php:27
+msgid "Style One"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:27
+msgid "Style Three"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-two.php:27
+msgid "Style Two"
+msgstr ""
+
+#. Name of the plugin
+#: elementor/swp-timeline-elementor-widgets-init.php:149
+#: elementor/swp-timeline-elementor-widgets-init.php:198
+#: elementor/swp-timeline-elementor-widgets-init.php:217
+msgid "Timeline"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Timeline - Elementor Timeline Addon is a fully responsive plugin that "
+"display your company or personal timeline/ Gallery items. From admin panel "
+"you can easily add your timeline items. It has widget included with carousel,"
+"Isotope,Masonary, Tab, Grid with different settings how many want to display "
+"total or  at a time and many more. It has the different custom Project URL, "
+"features, video url and many more."
+msgstr ""
+
+#: elementor/swp-timeline-elementor-widgets-init.php:173
+msgid "Timeline Addon"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:300
+#: elementor/widgets/class-swp-timeline-style-one.php:292
+msgid "Timeline Circle Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:315
+#: elementor/widgets/class-swp-timeline-style-one.php:307
+msgid "Timeline Circle Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:165
+#: elementor/widgets/class-swp-timeline-style-four.php:274
+#: elementor/widgets/class-swp-timeline-style-four.php:351
+#: elementor/widgets/class-swp-timeline-style-one.php:143
+#: elementor/widgets/class-swp-timeline-style-three.php:178
+#: elementor/widgets/class-swp-timeline-style-three.php:279
+#: elementor/widgets/class-swp-timeline-style-three.php:389
+#: elementor/widgets/class-swp-timeline-style-two.php:166
+#: elementor/widgets/class-swp-timeline-style-two.php:274
+#: elementor/widgets/class-swp-timeline-style-two.php:393
+msgid "Timeline Content"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:126
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:126
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:126
+#: elementor/widgets/class-swp-timeline-style-four.php:83
+#: elementor/widgets/class-swp-timeline-style-four.php:181
+#: elementor/widgets/class-swp-timeline-style-four.php:290
+#: elementor/widgets/class-swp-timeline-style-one.php:83
+#: elementor/widgets/class-swp-timeline-style-three.php:83
+#: elementor/widgets/class-swp-timeline-style-three.php:194
+#: elementor/widgets/class-swp-timeline-style-three.php:294
+#: elementor/widgets/class-swp-timeline-style-two.php:84
+#: elementor/widgets/class-swp-timeline-style-two.php:181
+#: elementor/widgets/class-swp-timeline-style-two.php:289
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:173
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:174
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:173
+#: elementor/widgets/class-swp-timeline-style-four.php:376
+#: elementor/widgets/class-swp-timeline-style-one.php:165
+#: elementor/widgets/class-swp-timeline-style-three.php:414
+#: elementor/widgets/class-swp-timeline-style-two.php:418
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:184
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:185
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:184
+#: elementor/widgets/class-swp-timeline-style-four.php:387
+#: elementor/widgets/class-swp-timeline-style-one.php:176
+#: elementor/widgets/class-swp-timeline-style-three.php:425
+#: elementor/widgets/class-swp-timeline-style-two.php:429
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:165
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:166
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:165
+#: elementor/widgets/class-swp-timeline-style-four.php:368
+#: elementor/widgets/class-swp-timeline-style-one.php:157
+#: elementor/widgets/class-swp-timeline-style-three.php:406
+#: elementor/widgets/class-swp-timeline-style-two.php:410
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-one.php:197
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:198
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:197
+#: elementor/widgets/class-swp-timeline-style-four.php:400
+#: elementor/widgets/class-swp-timeline-style-one.php:189
+#: elementor/widgets/class-swp-timeline-style-three.php:438
+#: elementor/widgets/class-swp-timeline-style-two.php:442
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:94
+#: elementor/widgets/class-swp-timeline-style-four.php:192
+#: elementor/widgets/class-swp-timeline-style-four.php:301
+#: elementor/widgets/class-swp-timeline-style-one.php:94
+#: elementor/widgets/class-swp-timeline-style-three.php:94
+#: elementor/widgets/class-swp-timeline-style-three.php:205
+#: elementor/widgets/class-swp-timeline-style-three.php:305
+#: elementor/widgets/class-swp-timeline-style-two.php:95
+#: elementor/widgets/class-swp-timeline-style-two.php:192
+#: elementor/widgets/class-swp-timeline-style-two.php:300
+msgid "Url"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-four.php:240
+#: elementor/widgets/class-swp-timeline-style-three.php:132
+#: elementor/widgets/class-swp-timeline-style-three.php:233
+#: elementor/widgets/class-swp-timeline-style-three.php:343
+#: elementor/widgets/class-swp-timeline-style-two.php:241
+#: elementor/widgets/class-swp-timeline-style-two.php:349
+msgid "Year"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-three.php:501
+msgid "Year Background Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:254
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:250
+#: elementor/widgets/class-swp-timeline-style-four.php:456
+#: elementor/widgets/class-swp-timeline-style-three.php:486
+#: elementor/widgets/class-swp-timeline-style-two.php:495
+msgid "Year Color"
+msgstr ""
+
+#: elementor/widgets/class-swp-timeline-style-blog-three.php:270
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:266
+#: elementor/widgets/class-swp-timeline-style-blog-two.php:328
+#: elementor/widgets/class-swp-timeline-style-four.php:472
+#: elementor/widgets/class-swp-timeline-style-three.php:517
+#: elementor/widgets/class-swp-timeline-style-two.php:511
+#: elementor/widgets/class-swp-timeline-style-two.php:573
+msgid "Year Typography"
+msgstr ""
